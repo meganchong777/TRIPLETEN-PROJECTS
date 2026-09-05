@@ -1,1 +1,0 @@
-https://public.tableau.com/views/TripleTenSprint4-DataVisualizationwTableau/TotalProfitbyCustomerSegmentProductCategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
